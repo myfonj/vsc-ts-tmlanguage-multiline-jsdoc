@@ -1,4 +1,4 @@
-// @ts-check
+//@ts-check
 
 /** @typedef
     * {
@@ -24,3 +24,5 @@ var x = 'd';
 /** @type {Ch} */
 // ↑ OK, highlighted
 var y = 'd';
+
+// as so: https://github.com/microsoft/TypeScript-TmLanguage/issues/467
